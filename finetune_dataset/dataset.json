@@ -1,0 +1,10 @@
+[
+    {
+        "input": "What is the capital of France?",
+        "output": "The capital of France is Paris."
+    },
+    {
+        "input": "Explain quantum physics briefly.",
+        "output": "Quantum physics studies how particles like electrons behave, often showing weird properties like superposition and entanglement."
+    }
+]

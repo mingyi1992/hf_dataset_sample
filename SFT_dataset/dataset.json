@@ -1,0 +1,10 @@
+[
+    {
+        "instruction": "Translate this to Chinese: Hello World",
+        "response": "你好，世界"
+    },
+    {
+        "instruction": "Write a short poem about the moon.",
+        "response": "皎潔月光掛夜空，靜謐如水映蒼穹。\n影隨風動輕搖曳，夢寄銀輝到心中。"
+    }
+]

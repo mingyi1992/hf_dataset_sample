@@ -1,0 +1,12 @@
+[
+    {
+        "prompt": "How do I improve my coding skills?",
+        "chosen": "Practice daily with small projects, study algorithms, and read clean code examples.",
+        "rejected": "Just watch YouTube videos and you'll be fine."
+    },
+    {
+        "prompt": "What’s the best way to stay healthy?",
+        "chosen": "Eat a balanced diet, exercise regularly, and get enough sleep.",
+        "rejected": "Drink soda every day and sleep 2 hours."
+    }
+]
